@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: black;
+}
+
+body {
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.container {
+    max-width: 1369px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.container img {
+    width: 374px;
+}
