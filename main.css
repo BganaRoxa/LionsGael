@@ -18,7 +18,7 @@ body {
     max-width: 560px;
     margin: 0 auto;
     text-align: center;
-    color: white;
+    color: #f9f9f9;
     display: block;
 }
 
@@ -31,20 +31,54 @@ body {
 }
 
 .formulario {
-    display: block;
     max-width: 530px;
     margin: 0 auto;
+    color: #f9f9f9;
+    position: relative;
+    border: none;
 }
 
 .formulario h2,
 h3 {
     font-size: 24px;
-    color: white;
+    color: #f9f9f9;
     text-align: left;
-    margin-bottom: 16px;
+    margin-bottom: 6px;
+    margin-top: 16px;
 }
 
-.formulario h3 {
-    font-size: 16px;
+.formulario h4 {
+    font-size: 20px;
     font-weight: normal;
+    margin-left: 8px;
+    margin-top: 16px;
+}
+
+
+.formulario input, 
+label {
+    color: #f9f9f9;
+    font-size: 16px;
+    margin-left: 8px;
+}
+
+.formulario input {
+    width: 50%;
+    display: block;
+    margin-bottom: 10px;
+    border: none;
+    padding: 5px 0 0 5px;
+    border: 1px solid rgba(255, 255, 255, 0.13);
+    vertical-align: middle;
+}
+
+.formulario button {
+    background: linear-gradient(82deg,#14128f 19%,#3953e4);
+    color: #f9f9f9;
+    font-weight: bold;
+    font-size: 18px;
+    margin: 12px 0 70px 8px;
+    padding: 5px 8px 0 8px;
+    border-radius: 5px;
+    cursor: pointer;
 }
