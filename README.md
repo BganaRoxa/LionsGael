@@ -13,6 +13,6 @@ Publicar o exercício no Github e no Vercel.
 
 Como eu fiz:
 Imaginei um cadastro de um site de streaming e fiz uma brincadeira com a logo do LionsGate, a estrela do StarPlus e o nome do meu filho: "Gael".
-Utilizei as fontes do Google fonts e fiz o desenho sobre a font do título e pintei a estrela com a cor escolhida pelo meu filho. Rs
+Utilizei as fontes do Google fonts e fiz o desenho sobre a font do título e pintei a estrela com a cor escolhida pelo meu filho. Rs.
 Para o design do título, utilizei o Procreate. Para o icon, utilizei o X-icon editor.
 Feito o design, apenas apliquei o que aprendi nas aulas: o formulário, adicionei os estilos e as máscaras.
