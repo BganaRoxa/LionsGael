@@ -23,8 +23,8 @@ body {
 }
 
 .container img {
-    margin-top: 100px;
-    margin: 100px 0 32px 0;
+    margin-top: 45px;
+    margin: 46px 0 32px 0;
     width: 374px;
     max-height: 75px;
     object-fit: cover;
@@ -40,7 +40,7 @@ body {
 
 .formulario h2,
 h3 {
-    font-size: 24px;
+    font-size: 20px;
     color: #f9f9f9;
     text-align: left;
     margin-bottom: 6px;
@@ -68,12 +68,12 @@ label {
     margin-bottom: 10px;
     border: none;
     padding: 5px 0 0 5px;
-    border: 1px solid rgba(255, 255, 255, 0.13);
+    border: 1px solid rgba(255, 255, 255, 0.205);
     vertical-align: middle;
 }
 
 .formulario button {
-    background: linear-gradient(82deg,#14128f 19%,#3953e4);
+    background: linear-gradient(82deg,#1613c7 19%,#046a99);
     color: #f9f9f9;
     font-weight: bold;
     font-size: 18px;
@@ -81,4 +81,11 @@ label {
     padding: 5px 8px 0 8px;
     border-radius: 5px;
     cursor: pointer;
+}
+
+.my-error-class {
+    color:#FF0000;  /* red */
+}
+.my-valid-class {
+    color:#00CC00; /* green */
 }
