@@ -30,7 +30,7 @@ $(document).ready(function(){
         rules: {
                 nome: {
                     required: true,
-                    minlength: 4
+                    minlength: 7
                 },
                 cpf: {
                     required: true,
